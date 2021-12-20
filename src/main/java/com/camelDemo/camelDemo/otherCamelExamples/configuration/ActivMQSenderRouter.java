@@ -1,4 +1,4 @@
-package com.camelDemo.camelDemo.routes.c;
+package com.camelDemo.camelDemo.otherCamelExamples.configuration;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
